@@ -1,2 +1,1 @@
-dmmwebcamp
-hello world
+dmm web camp hello world
